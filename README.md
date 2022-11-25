@@ -1,6 +1,6 @@
 ### Hi Developers 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/](https://www.linkedin.com/in/sumit-mehra-76484a131/))
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)]([[https://stackoverflow.com/users/3687251/aakash-](https://stackoverflow.com/users/20491530/sumit-mehra)](https://stackoverflow.com/users/20491530/sumit-mehra))
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aakash--01629954/](https://www.linkedin.com/in/sumit-mehra-76484a131/)](https://www.linkedin.com/in/sumit-mehra-76484a131/))
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)]([[[https://stackoverflow.com/users/3687251/aakash-](https://stackoverflow.com/users/20491530/sumit-mehra)](https://stackoverflow.com/users/20491530/sumit-mehra)](https://stackoverflow.com/users/20491530/sumit-mehra))
 
 I'm
 I am a software developer. Full stack developer Intern at Edureka. Have knowledge of HTML , CSS , JavaScript , jquery,Bootstarp,java,mysql.
