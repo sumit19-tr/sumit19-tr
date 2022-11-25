@@ -2,10 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Sumit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumit-mehra-76484a131/)](https://www.linkedin.com/in/sumit-mehra-76484a131/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sumit-yellow)](https://stackoverflow.com/users/20491530/sumit-mehra)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
-
+I am a software developer. Full stack developer Intern at Edureka. Have knowledge of HTML , CSS , JavaScript , jquery,Bootstarp,java,mysql.
 
 ![Visitor Count](https://profile-counter.glitch.me/sumit19-tr/count.svg)
 
